@@ -1,8 +1,5 @@
 name: "Release"
-on:
-  push:
-    tags:
-    - 'release/v*'
+on: workflow_dispatch
 
 jobs:
   release:
