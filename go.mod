@@ -7,7 +7,6 @@ require (
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32
 	github.com/go-openapi/spec v0.19.8
 	github.com/googleapis/gnostic v0.3.1
-	github.com/miekg/dns v1.1.35 // indirect
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/openshift/api v0.0.0-20200701144905-de5b010b2b38
 	github.com/operator-framework/operator-sdk v0.18.2
@@ -20,7 +19,7 @@ require (
 	go.opentelemetry.io/otel v0.1.2
 	go.opentelemetry.io/otel/exporter/trace/jaeger v0.1.2
 	golang.org/x/crypto v0.0.0-20200709230013-948cd5f35899 // indirect
-	google.golang.org/grpc v1.32.0
+	google.golang.org/grpc v1.33.2
 	gopkg.in/yaml.v2 v2.3.0
 	k8s.io/api v0.18.6
 	k8s.io/apimachinery v0.18.6
