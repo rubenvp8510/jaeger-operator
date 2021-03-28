@@ -1,0 +1,10 @@
+apiVersion: v1
+kind: Pod
+metadata:
+  labels:
+    app: vertx-create-span
+spec:
+  containers:
+    - name: vertx-create-span
+status:
+  phase: Running
