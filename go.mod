@@ -9,7 +9,7 @@ require (
 	github.com/googleapis/gnostic v0.4.1
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/openshift/api v0.0.0-20200701144905-de5b010b2b38
-	github.com/opentracing/opentracing-go v1.1.0
+	github.com/opentracing/opentracing-go v1.2.0
 	github.com/operator-framework/operator-sdk v0.18.2
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.10.0
