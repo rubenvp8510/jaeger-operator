@@ -6,7 +6,7 @@ require (
 	github.com/Masterminds/semver v1.5.0
 	github.com/ghodss/yaml v1.0.1-0.20190212211648-25d852aebe32 // indirect
 	github.com/go-openapi/spec v0.19.8
-	github.com/googleapis/gnostic v0.4.1
+	github.com/googleapis/gnostic v0.5.5
 	github.com/mitchellh/go-homedir v1.1.0
 	github.com/openshift/api v0.0.0-20200701144905-de5b010b2b38
 	github.com/opentracing/opentracing-go v1.1.0
@@ -31,9 +31,9 @@ require (
 	go.opentelemetry.io/otel/trace v0.20.0
 	google.golang.org/grpc v1.32.0 // indirect
 	k8s.io/api v0.20.7
-	k8s.io/apimachinery v0.20.7
+	k8s.io/apimachinery v0.23.2
 	k8s.io/client-go v12.0.0+incompatible
-	k8s.io/kube-openapi v0.0.0-20201113171705-d219536bb9fd
+	k8s.io/kube-openapi v0.0.0-20211115234752-e816edb12b65
 	sigs.k8s.io/controller-runtime v0.6.3
 )
 
