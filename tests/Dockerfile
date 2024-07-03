@@ -1,5 +1,5 @@
 # The Dockerfile's resulting image is purpose-built for executing Jaeger Operator e2e tests within the OpenShift release (https://github.com/openshift/release) using Prow CI.
-FROM golang@sha256:d5302d40dc5fbbf38ec472d1848a9d2391a13f93293a6a5b0b87c99dc0eaa6ae
+FROM golang@sha256:74cd6cd2c52b2fb7d9076899aabcfdf7dd827694c6f344697af4ada6f99cb3bb
 
 # Set the user to root
 USER root
